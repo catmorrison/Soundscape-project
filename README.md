@@ -1,6 +1,12 @@
 # Soundscape project
 R code for 'Not silent, yet: the shifting sounds of spring'
 
+R code for soundscape construction:
+
+1 - Soundscape construction.R
+    
+    R code to construct soundscape and generate acoustic metrics.
+
 R code for statistical analysis: 
 
 1 - Response to acoustic metrics to changes in community structure.R

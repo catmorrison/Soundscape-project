@@ -1,7 +1,7 @@
 # Soundscapes
 R code for 'Not silent, yet: the shifting sounds of spring'
 
-Code for statistical analysis: 
+R code for statistical analysis: 
 
 1 - Response to acoustic metrics to changes in community structure.R
 

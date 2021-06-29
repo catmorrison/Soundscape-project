@@ -5,7 +5,7 @@ R code for soundscape construction:
 
 1 - Soundscape construction.R
     
-    R code to construct soundscape and generate acoustic metrics.
+    R code to construct soundscapes and generate acoustic metrics.
 
 R code for statistical analysis: 
 
